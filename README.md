@@ -40,7 +40,7 @@ Estou sempre em busca de aprimorar minhas habilidades em arquitetura de software
 
 ---
 
-## ☁️ 🛠️ Ferramentas e Infraestrutura
+## 🛠️ Ferramentas e Infraestrutura
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
@@ -48,17 +48,6 @@ Estou sempre em busca de aprimorar minhas habilidades em arquitetura de software
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
----
-
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheussouzaramos\&show_icons=true\&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussouzaramos\&layout=compact\&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=matheussouzaramos\&theme=github-dark)
-
----
 
 ### 📫 Contato
 
