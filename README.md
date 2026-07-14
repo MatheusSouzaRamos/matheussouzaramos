@@ -51,6 +51,6 @@ Estou sempre em busca de aprimorar minhas habilidades em arquitetura de software
 
 ### 📫 Contato
 
-* LinkedIn: *[(adicione seu perfil)](https://www.linkedin.com/in/matheussouzaramos19/)*
+* LinkedIn: *https://www.linkedin.com/in/matheussouzaramos19/*
 * Email: *matheussouzaramos19@gmail.com*
 
